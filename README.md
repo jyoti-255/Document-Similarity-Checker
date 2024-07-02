@@ -18,8 +18,8 @@ You can install the required packages via pip:
 pip install streamlit scikit-learn pandas PyMuPDF
 
 ## How to Run
-1. Clone this repository or download the `main.py` file.
-2. Navigate to the directory containing `main.py` in your terminal.
+1. Clone this repository or download the `app.py` file.
+2. Navigate to the directory containing `app.py` in your terminal.
 3. Run the following command:
 
 ```bash
